@@ -19,7 +19,7 @@ const SignIn = () => {
     <>
     <FormContainer>
     <FormWrap>
-    <Icon to='/'>Logo</Icon>
+    <Icon to='/'>The-Travel</Icon>
     <FormContent>
     <Form>
     <FormH1>Sign in to your account</FormH1>

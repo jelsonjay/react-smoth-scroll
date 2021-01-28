@@ -29,7 +29,7 @@ const onHover = () => {
     <HeroH1>Worldwide Travel Solutions Discover The World </HeroH1>
     <HeroParagraph>Award winning independent travel agents based in Leeds with over 10 years' experience</HeroParagraph>
     <HeroBtnWrap>
-    <Button to='/' 
+    <Button to='Signup' 
     onMouseEnter={onHover} 
     onMouseOut={onHover}
     primary='true'

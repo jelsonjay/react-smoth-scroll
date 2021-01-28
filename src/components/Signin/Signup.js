@@ -19,7 +19,7 @@ const SignUp = () => {
     <>
     <FormContainer>
     <FormWrap>
-    <Icon to='/'>Logo</Icon>
+    <Icon to='/'>The-Travel</Icon>
     <FormContent>
     <Form>
     <FormH1>Get started for free</FormH1>

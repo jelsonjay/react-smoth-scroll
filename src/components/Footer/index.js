@@ -77,9 +77,9 @@ const Footer = () => {
     exatc='true' 
     offset={-80}
     >
-         Logo
+      The-Travel
     </SocialLogo>
-    <WebsiteRights>Logo &copy; {new Date().getFullYear()} All rigts reserved.</WebsiteRights>
+    <WebsiteRights>The-Travel - &copy; {new Date().getFullYear()} All rigts reserved.</WebsiteRights>
     <SocialIcons>
     <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
     <FaFacebook />
