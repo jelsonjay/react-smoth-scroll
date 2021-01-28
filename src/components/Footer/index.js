@@ -34,18 +34,18 @@ const Footer = () => {
     <FooterLinkItems>
     <FooterLinkTitle>About Us</FooterLinkTitle>
     <FooterLink to='/signin'>How it works</FooterLink>
-    <FooterLink to='/signin'>Testimonials</FooterLink>
+    <FooterLink to='/signin'>Travel Information</FooterLink>
     <FooterLink to='/signin'>Careers</FooterLink>
-    <FooterLink to='/signin'>Investors</FooterLink>
-    <FooterLink to='/signin'>Terms of services</FooterLink>
+    <FooterLink to='/signin'>Health & Safety</FooterLink>
+    <FooterLink to='/signin'>Blog</FooterLink>
     </FooterLinkItems>
     <FooterLinkItems>
-    <FooterLinkTitle>Videos</FooterLinkTitle>
-    <FooterLink to='/signin'>How it works</FooterLink>
-    <FooterLink to='/signin'>Testimonials</FooterLink>
-    <FooterLink to='/signin'>Careers</FooterLink>
+    <FooterLinkTitle>Contents</FooterLinkTitle>
+    <FooterLink to='/signin'>Buisiness</FooterLink>
+    <FooterLink to='/signin'>Travel Technology</FooterLink>
+    <FooterLink to='/signin'>History</FooterLink>
     <FooterLink to='/signin'>Investors</FooterLink>
-    <FooterLink to='/signin'>Terms of services</FooterLink>
+    <FooterLink to='/signin'>Types of Services</FooterLink>
     </FooterLinkItems>
     </FooterLinksWrap>
    

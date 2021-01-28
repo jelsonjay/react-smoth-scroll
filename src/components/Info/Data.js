@@ -3,7 +3,7 @@ export const homeItemOne ={
   lightBg: true,
   lightText:false,
   lightTextDesc:false,
-  topLine: 'The Travel Experts',
+  topLine: 'About',
   headline: 'Largest Independent Travel Agent',
   desc: `It was popularised in the 1960s with the 
   release of Letraset sheets containing Lorem Ipsum 
@@ -24,7 +24,7 @@ export const homeItemTwo ={
   lightBg: false,
   lightText:true,
   lightTextDesc:true,
-  topLine: `It's All About Travel`,
+  topLine: `Services`,
   headline: 'Deals Made Just For Your Holidays',
   desc: `It was popularised in the 1960s with the 
   release of Letraset sheets containing Lorem Ipsum 
@@ -67,7 +67,7 @@ export const homeItemFour ={
   lightBg: true,
   lightText:false,
   lightTextDesc:false,
-  topLine: 'Travel Management',
+  topLine: 'Destinations',
   headline: 'Book Super Cheap Summer Holidays',
   desc: `It was popularised in the 1960s with the 
   release of Letraset sheets containing Lorem Ipsum 
@@ -78,5 +78,24 @@ export const homeItemFour ={
   alt:'Signup',
   dark: false,
   primary: false,
+  darkText:true,
+}
+
+export const homeItemFive ={
+  id: 'price',
+  lightBg: false,
+  lightText:true,
+  lightTextDesc:true,
+  topLine: 'Price',
+  headline: 'Straightforward pricing, next-level travel.',
+  desc: `It was popularised in the 1960s with the 
+  release of Letraset sheets containing Lorem Ipsum 
+  .`,
+  buttonLabel: 'Get started',
+  imgStart: true,
+  img: '../images/price.svg',
+  alt:'Price',
+  dark: false,
+  primary: true,
   darkText:true,
 }

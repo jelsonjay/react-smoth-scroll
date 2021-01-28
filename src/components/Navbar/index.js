@@ -70,8 +70,9 @@ const Navbar = ({toggle}) => {
     spy={true} 
     exatc='true' 
     offset={-80}
-    >Appointments</NavLinks>
+    >Cheap Flights</NavLinks>
     </NavItem>
+    
     <NavItem>
     <NavLinks to='signup'
     smooth={true} 
@@ -79,8 +80,19 @@ const Navbar = ({toggle}) => {
     spy={true} 
     exatc='true' 
     offset={-80}
-    >Booking</NavLinks>
+    >Destinations</NavLinks>
     </NavItem>
+
+    <NavItem>
+    <NavLinks to='price'
+    smooth={true} 
+    duration={500} 
+    spy={true} 
+    exatc='true' 
+    offset={-80}
+    >Price</NavLinks>
+    </NavItem>
+
     </NavMenu>
     <NavBtn>
     <NavBtnLink to='signin'>Sign In</NavBtnLink>

@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import Sidebar from '../components/Sidebar'
-import {homeItemOne, homeItemTwo, homeItemThree, homeItemFour} from '../components/Info/Data'
+import {homeItemOne, homeItemTwo, homeItemThree, homeItemFour, homeItemFive} from '../components/Info/Data'
 import Navbar from '../components/Navbar'
 import Hero from '../components/Hero'
 import Services from '../components/Services'
@@ -24,6 +24,7 @@ setIsOpen(!isOpen)
     <Info {...homeItemThree}/>
     <Services />
     <Info {...homeItemFour}/>
+    <Info {...homeItemFive}/>
     <Footer />
 
     </>
